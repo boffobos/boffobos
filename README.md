@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in React/React native development, frontend, backend
 - 🌱 I’m currently learning **web development**
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me den_fobos@ -->
