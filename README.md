@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Denis
-- 🌱 I’m currently learning **web development**
+<!-- - 👋 Hi, I’m Denis -->
+  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me den_fobos@ -->
 
